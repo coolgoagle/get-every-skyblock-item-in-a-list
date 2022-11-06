@@ -3,5 +3,7 @@
 
 yeah this is useless
 
+### Just run start.bat
+REQUIRES NODEJS
 
 I also gave a list in items.txt made using this program, it will overwrite when you run the program
