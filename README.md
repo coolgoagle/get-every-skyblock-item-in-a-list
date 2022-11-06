@@ -1,2 +1,2 @@
-# get-every-skyblock-item-in-a-list
+# Get Every Skyblock Item In a List
 yeah this is useless
